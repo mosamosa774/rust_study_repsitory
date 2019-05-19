@@ -1,5 +1,5 @@
 [package]
-name = "fibo"
+name = "fibonatcci"
 version = "0.1.0"
 authors = ["mosamosa774"]
 edition = "2018"
